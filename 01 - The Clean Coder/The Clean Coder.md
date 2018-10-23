@@ -1,5 +1,5 @@
 The Clean Coder  
-A Code of Conduct for Professional Programmers
+A Code of Conduct for Professional Programmers  
 Author: Robert C. Martin  
   
 Chapter 01 - Clean Code
