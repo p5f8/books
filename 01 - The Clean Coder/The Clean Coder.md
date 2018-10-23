@@ -1,7 +1,7 @@
-Clean Code
-A Handbook of Agile Software Craftsmanship
-Author: Robert C. Martin
-
+Clean Code  
+A Handbook of Agile Software Craftsmanship  
+Author: Robert C. Martin  
+  
 Chapter 01 - Clean Code
 -----------------------
 
