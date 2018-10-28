@@ -102,10 +102,42 @@ Chapter 01 - Clean Code
 
    Robert C. Martin, Principles, Patterns, and Practices of Agile Software Development, Upper Saddle River, NJ: Prentice Hall, 2002  
    
-   
-  Stoped at page 56.
-  
-  
 
+
+Chapter 02 - Saying No
+----------------------
+  
+- Professionals speak truth to power. Professionals have the courage to say no to their managers.  
+  Aren't you supposed to do what your boss says? No. Not if you are a professional.  
+  Slaves are not allowed to say no.  
+
+- Adversarial Roles
+  One of the reviewers of this book truly hated this chapter. He had built teams where there were no adversarial relationships; the teams worked together in harmony and without confrontation.  
+  But I wonder if his teams are really as confrontation free as he supposes.  
+  
+- Say no at first! And then work out a solution that is mutually agreeable to both.
+
+- What About The Why?
+  Why it will take two weeks is just a detail.  
+  Providing too much detail can be an invitation for micro-management.  
+
+- High Stakes  
+  "Firing me isn’t going to change the estimate, Charles"  
+  
+- Being a "Team Player"
+  Never say trying, only say it's possible or not.
+
+- Trying
+  Yoda: "There is no trying."  
+  By promising to try you are saying that you have a new plan. What is that new plan?  
+  
+- Passive Aggression
+  Happen when you let things happen. Interesting...
+  Always say no at all the right times, and in all the right ways.
+
+- The Cost Of Saying Yes
   
   
+   
+
+  Stoped at page 69.
