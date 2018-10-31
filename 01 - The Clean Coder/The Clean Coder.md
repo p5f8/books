@@ -136,8 +136,25 @@ Chapter 02 - Saying No
   Always say no at all the right times, and in all the right ways.
 
 - The Cost Of Saying Yes
+  Most of the time we want to say yes.  
+  that HAS-A is better than IS-A
+  Is good code impossible in modern software development?
+
+- The Typical Project Proposal
+  Enter the nefarious “3rd party.”
+  Never truly be confident with the customer.
   
+- Two Weeks to Completion
+  The client will always extend the deadline.
+  They will always want more features. 
+  They will always want change—LATE. And here’s the formula for what to expect
+  (# executives)^2 +
+   2 * # new executives + 
+   + # your kids
+   = DAYS ADDED AT LAST MINUTE
+   
+- The Clients Never Care as Much as You Do
   
    
 
-  Stoped at page 69.
+  Stoped at page 72.
