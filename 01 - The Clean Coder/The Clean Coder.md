@@ -9,9 +9,8 @@ Chapter 01 - Clean Code
   
   What would happen if you allowed a bug to slip through a module, and it cost your company $10,000 ?  
   The nonprofessional would shrug his shoulders, say "stuff happens", and start writing the next module.  
-  The professional would write the company a check for $ 10,000!  
-
-  
+  The professional would write the company a check for $ 10,000! 
+ 
 - Taking Responsability
   
   Always ship with tests.
@@ -24,7 +23,8 @@ Chapter 01 - Clean Code
 - Do no harm To Function
 
   As programmers, we want our software to work. As ours customers and employers.  
-  We harm the function of our software when we create bugs.
+  We harm the function of our software when we create bugs.  
+  Errors: It won’t ever get to zero, but it is your responsibility to get as close as possible to it.  
   
 - QA Should Find Nothing
 
@@ -38,6 +38,8 @@ Chapter 01 - Clean Code
   
 - Automated QA
 
+  Any doubts?
+
 - Do No Harm To Structure
 
   Software should be easy to change.  
@@ -49,7 +51,8 @@ Chapter 01 - Clean Code
 
   Your carrer is your responsability.  
   Work 40 hours, and study 20 hours. (Martin's Law)  
-  Work 40 hours, and study 10 hours. (Pablo's Law) :-)
+  Work 40 hours, and study 10 hours. (Pablo's Law) :-) (v1)
+  Work 40 hours, and study 30 hours. (Pablo's Law) :-) (v2)
   
 - Know Your Field
 
@@ -93,8 +96,12 @@ Chapter 01 - Clean Code
 
 - Humility
 
+  However, a professional also knows that there will be times when he will fail, his risk calculations will be wrong, his abilities will fall short; he’ll look in the mirror and see an arrogant fool smiling back at him.  
+
   So when a professional finds himself the butt of a joke, he’ll be the first to laugh.  
+  
   He will never ridicule others, but will accept ridicule when it is deserved and laugh it off when it’s not.  
+  
   Howard’s advice: Laugh  
 
 
@@ -102,8 +109,9 @@ Chapter 01 - Clean Code
 
    Robert C. Martin, Principles, Patterns, and Practices of Agile Software Development, Upper Saddle River, NJ: Prentice Hall, 2002  
    
+-- Stoped at page 56.
 
-
+/*
 Chapter 02 - Saying No
 ----------------------
   
@@ -158,3 +166,5 @@ Chapter 02 - Saying No
    
 
   Stoped at page 72.
+
+*/
