@@ -109,12 +109,12 @@ Chapter 01 - Clean Code
 
    Robert C. Martin, Principles, Patterns, and Practices of Agile Software Development, Upper Saddle River, NJ: Prentice Hall, 2002  
    
--- Stoped at page 56.
 
-/*
 Chapter 02 - Saying No
 ----------------------
   
+> "Do; or do not. There is no trying." - Yoda
+
 - Professionals speak truth to power. Professionals have the courage to say no to their managers.  
   Aren't you supposed to do what your boss says? No. Not if you are a professional.  
   Slaves are not allowed to say no.  
@@ -123,6 +123,12 @@ Chapter 02 - Saying No
   One of the reviewers of this book truly hated this chapter. He had built teams where there were no adversarial relationships; the teams worked together in harmony and without confrontation.  
   But I wonder if his teams are really as confrontation free as he supposes.  
   
+- My own experience has been that the hard decisions are best made through the confrontation of adversarial roles.
+
+- Managers are people with a job to do, and most managers know how to do that job pretty well. Part of that job is to pursue and defend their objectives as aggressively as they can.
+
+- By the same token, programmers are also people with a job to do, and most of them know how to get that job done pretty well. If they are professionals they will pursue and defend their objectives as aggressively as they can.
+
 - Say no at first! And then work out a solution that is mutually agreeable to both.
 
 - What About The Why?
@@ -133,7 +139,7 @@ Chapter 02 - Saying No
   "Firing me isn’t going to change the estimate, Charles"  
   
 - Being a "Team Player"
-  Never say trying, only say it's possible or not.
+  Never say trying, only say it I can do or I can not do.
 
 - Trying
   Yoda: "There is no trying."  
@@ -163,8 +169,13 @@ Chapter 02 - Saying No
    
 - The Clients Never Care as Much as You Do
   
-   
+- Always take a look at the process.
+  Are you coding too much?  
+  Are unit tests and integrated tests compromised?
+  Are you coding too fast?
+  Are you sleeping well?
 
-  Stoped at page 72.
+  1 or more than 1 yes, well, It's time so say 'No'.
+  
 
-*/
+  Stoped at page 78.
