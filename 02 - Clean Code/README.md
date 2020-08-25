@@ -1,5 +1,5 @@
 
-# Chapter 01
+# Chapter 01 - Clean Code
 
 
 > You are reading this book for two reasons. First, you are a programmer. Second, you want
@@ -27,5 +27,59 @@ Bibliography:
 [Beck07]: Implementation Patterns, Kent Beck, Addison-Wesley, 2007.  
 [Knuth92]: Literate Programming, Donald E. Knuth, Center for the Study of Language and Information, Leland Stanford   Junior University, 1992.  
 
-Stopped at page 48
+
+# Chapter 02 - Meaningful Names
+
+> Use Intention-Revealing Names
+
+> Stop using comments.
+
+> Avoid Disinformation
+avoid leaving false clues  
+
+> Make Meaninful Distinctions
+Use Pronounceable Names  
+
+> Use Pronounceable Names
+
+> Use Searchable Names
+
+> Avoid Encodings
+Stop using hungarian notation  
+Member prefixes  
+Interfaces and Implementations  
+
+> Avoid Mental Mapping
+Readers shouldn’t have to mentally translate your names into other names they already know.  
+
+> Class Names
+Prefer nouns or noun phrase.
+Do not use verbs, please.  
+
+> Method Names
+Prefer verb or verb phrase.
+
+> Do not be cute
+That is do not use slang words.
+
+> Pick One Word per Concept
+Pick one word for one abstract concept and stick with it.  
+
+> Don't Pun
+
+> Use Solution Domain Names
+JobQueue, AccountVisitor
+
+> Use Problem Domain Names
+
+> Add Meaningful Context
+Maybe you should break a method to a class?
+
+> Don't Add Gratuitous Context
+
+
+# Chapter 03 - Functions
+
+
+Stopped at page 62
 
