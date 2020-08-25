@@ -81,5 +81,87 @@ Maybe you should break a method to a class?
 # Chapter 03 - Functions
 
 
-Stopped at page 62
+> Always write small functions and methods!
+
+> Blocks, Ifs and Identating
+Keep not greater than one or two.  
+
+> Do One Thing.
+FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.  
+
+> One Level of Abstraction per Function
+
+> Reading Code from Top to Bottom: The Stepdown Rule
+We want the code to read like a top-down narrative.  
+
+Try write code like this:
+
+```
+   To include the setups and teardowns, we include setups, then we include the test page content, and then we include the teardowns.
+   To include the setups, we include the suite setup if this is a suite, then we include the regular setup.
+   To include the suite setup, we search the parent hierarchy for the “SuiteSetUp” page and add an include statement with the path of that page.
+   To search the parent...
+```
+
+> Switch Statements
+Try to use abstract factory or factory pattern.
+
+> Use Descriptive Names
+
+> Function Arguments
+Ideal number of arguments: 1 or 2.  
+Try not to use void functions.   
+
+> Flag Arguments
+Avoid boolean arguments.  
+
+> Dyadic Functions
+Avoid functions with two arguments.  
+Monadic is your best guest.  
+
+> Triads Functions
+Try never write then.  
+
+> Argument Objects
+More then 2 arguments, use objects.  
+
+> Verbs and Keywords
+
+> Have no side effect
+Side effects are lies.
+Never write functions that does one more thing than this function name.
+
+> Output Arguments
+Cognitive break should be avoided.  
+So, output arguments should be avoided.  
+
+> Command Query Separation
+Functions should either do something or answer something, but not both.  
+
+> Prefer Exceptions to Returning Error Codes
+
+> Extract Try/Catch Blocks
+
+> Error Handling is One Thing
+
+> The Error.java Dependency Magnet
+
+> Don't Repeat Yourself (DRY)
+
+> Structured Programming
+
+> Conclusion
+Functions are the verbs of the language.  
+Classes are the nouns.  
+Master programmers think of systems as stories to be told rather than programs to be written.  
+
+
+Bibliography:
+[KP78]: Kernighan and Plaugher, The Elements of Programming Style, 2d. ed., McGrawHill, 1978.
+[PPP02]: Robert C. Martin, Agile Software Development: Principles, Patterns, and Practices, Prentice Hall, 2002.
+[GOF]: Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
+[PRAG]: The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
+[SP72]: Structured Programming, O.-J. Dahl, E. W. Dijkstra, C. A. R. Hoare, Academic Press, London, 1972.
+
+Stopped at page 84
 

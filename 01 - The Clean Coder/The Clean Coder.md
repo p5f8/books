@@ -178,4 +178,18 @@ Chapter 02 - Saying No
   1 or more than 1 yes, well, It's time so say 'No'.
   
 
-  Stoped at page 78.
+Chapter 03 - Saying Yes
+-----------------------
+
+- Recognizing lack of commitment
+Some words: need/should, hope/wish, let's,   
+
+- How does commitment sounds like?
+I will ... by .....  
+You’re stating a fact about something YOU will do with a clear end time. Period.  
+
+but you have to get through the next two stages: meaning it, and following through.
+
+
+Stoped at page 90.  
+
