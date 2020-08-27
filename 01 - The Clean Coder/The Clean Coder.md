@@ -191,5 +191,136 @@ You’re stating a fact about something YOU will do with a clear end time. Perio
 but you have to get through the next two stages: meaning it, and following through.
 
 
-Stoped at page 90.  
+Chapter 04 - Coding
+-------------------
+
+- Being able to sense your errors is really important. Not just in typing, but in everything. 
+
+- Having error-sense means that you very rapidly close the feedback loop and learn from your errors all the more quickly.  
+
+- I’ve found that in each case that the key to mastery is confidence and error-sense.  
+
+> Preparedness
+
+1. First, your code must work. You must understand what problem you are solving and understand how to solve that problem. You must ensure that the code you write is a faithful representation of that solution.  
+2. Your code must solve the problem set for you by the customer. Often the customer’s requirements do not actually solve the customer’s problems.  
+3. Your code must fit well into the existing system.
+4. Your code must be readable by other programmers.
+5. If you are tired or distracted, do not code.
+
+> 3 AM CODE
+
+1. Don’t write code when you are tired.
+2. Dedication and professionalism are more about discipline than hours.
+3. I'm really do not like to work late at night.
+
+> Worry Code
+
+1. The trick is to learn how to shut down the background process, or at least reduce its priority so that it’s not a
+continuous distraction.
+
+> The Flow Zone
+
+You must be there, in "The Zone", when you are practicing.  
+Get out of "The Zone" when you are coding.  
+When you get in "The Zone", you lost the big picture.  
+
+> Music
+
+I don't like to listen to music when I'm coding.
+
+> Interruptions
+
+Are you rude? hmm
+Sometimes, however, it’s not the Zone that’s at fault, it’s just that you are trying to understand something complicated that requires concentration. There are several solutions to this.  
+
+Solutions: Pair, TDD or BDD.
+
+> Writer's Block
+
+Are you getting enough sleep?  
+Or are you felling worry, fear, and depression?  
+
+> Creative Input
+
+Creativity breeds creativity.  
+Have you ever tried good old space opera?  
+
+> Debugging Time
+
+For some reason software developers don’t think of debugging time as coding time.  
+A software developer who creates many bugs is acting unprofessionally.  
+
+
+> Pacing Yourself
+
+Software development is a marathon, not a sprint.  
+
+> Know When To Walk Away
+
+Creativity and intelligence are fleeting states of mind.  
+When you are stuck, when you are tired, disengage for awhile. Give your creative subconscious a crack at the problem.  
+
+> Driving Home
+
+> The Shower
+
+> Being Late
+
+You will be late. It happens to the best of us.  
+Regularly measure your progress against your goal, and come up with three fact-based end dates: best case, nominal case, and worst case.  
+Do not incorporate hope into your estimates!  
+Update these numbers daily.  
+
+> Hope
+
+Hope is the project killer.  
+Hope destroys schedules and ruins reputations.
+Make sure that the team and the stakeholders understand the situation, and don’t let up until there is a fall-back plan.  
+Don’t let anyone else have hope.  
+
+> Rushing
+
+What if your manager insists that you “do what it takes”? Hold to your estimates!  
+Tell your boss that you’ve already considered the options (because you have) and that the only way to improve the schedule is to reduce scope.  
+Do not be tempted to rush.  
+There is no way to rush.  
+You can’t make yourself code faster.  
+You can’t make yourself solve problems faster.  
+If you try, you’ll just slow yourself down and make a mess that slows everyone else down, too.  
+Deprive your boss, your team, and your stakeholders of hope.  
+
+> Overtime
+
+Therefore you should not agree to work overtime unless:
+1. you can personally afford it, 
+2. it is short term, two weeks or less, and (
+3. your boss has a fall-back plan in case the overtime effort fails.
+
+> False Delivery
+
+> Define "DONE"
+
+> Help
+
+> Helping others
+
+15-30 minutes a day, it's nice.
+
+> Being Helped
+
+Do not protect your turf.  
+It is unprofessional to remain stuck when help is easily accessible.  
+
+> Mentoring
+
+Bibliography:
+
+[Martin09]: Robert C. Martin, Clean Code, Upper Saddle River, NJ: Prentice Hall, 2009.  
+[Martin03]: Robert C. Martin, Agile Software Development: Principles, Patterns, and Practices, Upper Saddle River, NJ: Prentice Hall, 2003.  
+
+
+
+
+Stoped at page 110.  
 

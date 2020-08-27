@@ -163,5 +163,23 @@ Bibliography:
 [PRAG]: The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 [SP72]: Structured Programming, O.-J. Dahl, E. W. Dijkstra, C. A. R. Hoare, Academic Press, London, 1972.
 
-Stopped at page 84
+
+# Chapter 04 - Comments
+
+> "Don’t comment bad code—rewrite it." —Brian W. Kernighan and P. J. Plaugher1
+
+> Programmers can’t realistically maintain comments. Get ride of them.
+
+> Keep in mind, however, that the only truly good comment is the comment you found a way not to write
+
+> TODOs are jobs that the programmer thinks should be done, but for some reason can’t do at the moment
+
+
+Bibliography:
+
+[KP78]: Kernighan and Plaugher, The Elements of Programming Style, 2d. ed., McGrawHill, 1978.
+
+
+
+Stopped at page 106
 
