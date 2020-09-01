@@ -181,5 +181,58 @@ Bibliography:
 
 
 
-Stopped at page 106
+# Chapter 05 - Formatting
+
+
+> You should take care that your code is nicely formatted.
+
+> You should choose a set of simple rules that govern the format of your code, and then you should consistently apply those rules.  
+
+> Vertical Formatting
+Small files, talking about number of lines, are usually easier to understand than large files are.
+
+> The Newspaper Metaphor
+Write source fileto be like a newspaper article.
+
+> Vertical Openness Between Concepts
+One line before each method.
+
+> Vertical Density
+Methods that are tightly related should appear vertically dense, or near.
+
+> Variable Declarations
+Should appear a the top of each function.
+
+> Instance Variables
+Should be declared at the top of the class.
+
+> Dependent Functions
+The caller should be above the callee.
+
+> Conceptual Affinity.
+Certain bits of code want to be near other bits.
+
+> Vertical Ordering
+In general we want function call dependencies to point in the downward direction.  
+That is, a function that is called should be below a function that does the calling.  
+
+> Horizontal Formatting
+Programmers clearly prefer short lines.
+140 characters that's OK.
+
+> Horizontal Openness and Density
+We use horizontal white space to associate things that are strongly related and disassociate things that are more weakly related.  
+
+> Horizontal Alignment
+Please don't do this.
+
+> Indentation
+Any doubts?
+3 spaces or 1 tab, it's nice.
+
+> Team Rules Rulez!
+
+
+
+Stopped at page 124
 
