@@ -321,6 +321,39 @@ Bibliography:
 
 
 
+Chapter 05 - Test Driven Development
+--------------------------------------
 
-Stoped at page 110.  
+> TDD works!
+
+> Three laws of TDD
+1. You are not allowed to write any production code until you have first written a failing unit test.  
+2. You are not allowed to write more of a unit test than is sufficient to fail - and not compiling is failing.  
+3. You are not allowed to write more production code that is sufficient to pass the currently failing unit test.  
+
+> Reduce Defect Injection Rate
+
+> Take Courage
+Why don't you fix bad code when you see it?  
+Are you afraid?  Or this project don't have unit tests?
+
+> Documentation (readme.md please)
+
+> Improve Design
+TDD first or Design First?  
+
+> TDD is not a religion
+You could write bad tests and bad code at same time.  
+No professional developer should ever follow a discipline when that discipline does more harm than good.  
+
+
+Bibliography:
+
+[Maximilien]: E. Michael Maximilien, Laurie Williams, “Assessing Test-Driven Development at IBM,” http://collaboration.csc.ncsu.edu/laurie/Papers/ MAXIMILIEN_WILLIAMS.PDF
+[George2003]: B. George, and L. Williams, “An Initial Investigation of TestDriven Development in Industry,” http://collaboration.csc.ncsu.edu/laurie/Papers/TDDpaperv8.pdf
+[Janzen2005]: D. Janzen and H. Saiedian, “Test-driven development concepts, taxonomy, and future direction,” IEEE Computer, Volume 38, Issue 9, pp. 43–50.
+[Nagappan2008]: Nachiappan Nagappan, E. Michael Maximilien, Thirumalesh Bhat, and Laurie Williams, “Realizing quality improvement through test driven development: results and experiences of four industrial teams,” Springer Science + Business Media, LLC 2008: http://research.microsoft.com/en-us/projects/esm/nagappan_tdd.pdf
+
+
+Stoped at page 118.  
 
